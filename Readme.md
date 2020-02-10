@@ -22,7 +22,7 @@ In this demo it is enough for us to create a single READ-ONLY endpoint that retu
 To cover more advanced topics like security, access restrictions, ... you do not need to worry about. 
 
 ### Vue.js Progressive Web App
-As a second step we would like to get to know your strength in frontend development. Please create a new Vue.js application in the `vuejs folder`. Please orientate yourself by the visual suggestion in `pwa-screenshot.png`. 
+As a second step we would like to get to know your strength in frontend development. Please create a new Vue.js application in the `vuejs` folder. Please orientate yourself by the visual suggestion in `pwa-screenshot.png`. 
 
 The output of the drinks should be done dynamically using the previously created endpoint from the Symfony application.
 You only have to optimize the output for smartphone and tablet.
