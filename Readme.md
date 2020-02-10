@@ -30,7 +30,7 @@ You only have to optimize the output for smartphone and tablet.
 Necessary icons and pictures are provided in the `vuejs` folder.
 
 ### What we expect
-You will find a file `Documentation.md` in both project folders `api` and `vuejs`. We would like to be able to understand how you approached the individual steps and how you finally implemented the requirements. Please roughly document your steps of implementation here.
+You will find a file `Documentation.md` in both project folders `api` and `vuejs`. We would like to be able to understand how you approached the individual steps and how you finally implemented the requirements. Please roughly document your steps of implementation there.
 
 If you are satisfied with your results, please create a zip file from the entire project and send it by e-mail to `w.freund@communiacs.de`. We are looking forward to your input and a possible personal meeting as a new colleague.
 
