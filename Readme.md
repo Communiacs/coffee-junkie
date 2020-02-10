@@ -27,7 +27,7 @@ As a second step we would like to get to know your strength in frontend developm
 The output of the drinks should be done dynamically using the previously created endpoint from the Symfony application.
 You only have to optimize the output for smartphone and tablet.
 
-Necessary icons and pictures are provided in the vuejs folder.
+Necessary icons and pictures are provided in the `vuejs` folder.
 
 ### What we expect
 You will find a file `Documentation.md` in both project folders `api` and `vuejs`. We would like to be able to understand how you approached the individual steps and how you finally implemented the requirements. Please roughly document your steps of implementation here.
