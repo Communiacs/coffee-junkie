@@ -1,10 +1,9 @@
-# Your first step as a developer at Communiacs
+# Make a career as a developer with Communiacs
 
-Hello dear applicants,
 
-we did a first interview and we like you. You are a pleasant person, motivated and eager to learn. This takes you one step further in our recruiting process.
+The development of individual web applications is your world? Are you excited about the new technical possibilities of the digital age? Then you have come to the right place!
 
-As a digital agency, we appreciate the relaxed exchange with colleagues as well as the determined realization of demanding projects with the latest techniques. For this reason we would like to test your technical know-how with a small training project.
+Show us your talent and you are only a few lines of code away from a career with Communiacs. We would like to test your technical know-how with a small training project.
 
 As in all digital agencies, coffee is the fuel that drives development. Support us with the implementation of a small Progressive Web App to automate coffee orders.
 
@@ -36,4 +35,4 @@ If you are satisfied with your results, please create a zip file from the entire
 
 
 ## Do you have any questions?
-If something should be unclear for you, or questions arise, you can always contact us at `w.freund@communiacs.de`.
+If something should be unclear for you, or questions arise, you can always contact us at `w.freund@communiacs.de`. By the way, if you have experience in implementing TYPO3 or shopware projects, we should meet anyway.
