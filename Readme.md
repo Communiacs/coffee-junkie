@@ -3,11 +3,11 @@
 
 The development of individual web applications is your world? Are you excited about the new technical possibilities of the digital age? Then you have come to the right place!
 
-Show us your talent and you are only a few lines of code away from a career with Communiacs. We would like to test your technical know-how with a small training project.
+Show us your talent and you are only a few lines of code away from a career with Communiacs. Test your technical know-how with a small training project.
 
-As in all digital agencies, coffee is the fuel that drives development. Support us with the implementation of a small Progressive Web App to automate coffee orders.
+As in all digital agencies, coffee is the fuel that drives development. Convince us with the implementation of a small Vue.js PWA to automate coffee orders.
 
-You will find a file `pwa-screenshot.png` in the main folder. This serves as a guideline for your implementation.
+You will find a file `pwa-screenshot.png` in the main folder. This serves as a guideline for the implementation.
 
 
 ## Components
@@ -31,8 +31,7 @@ Necessary icons and pictures are provided in the `vuejs` folder.
 ### What we expect
 You will find a file `Documentation.md` in both project folders `api` and `vuejs`. We would like to be able to understand how you approached the individual steps and how you finally implemented the requirements. Please roughly document your steps of implementation there.
 
-If you are satisfied with your results, please create a zip file from the entire project and send it by e-mail to `w.freund@communiacs.de`. We are looking forward to your input and a possible personal meeting as a new colleague.
-
+If you are satisfied with your results, please create a zip file from the entire project and send it by e-mail to `w.freund@communiacs.de`. We are looking forward to your input and always hold a seat for you.
 
 ## Do you have any questions?
 If something should be unclear for you, or questions arise, you can always contact us at `w.freund@communiacs.de`. By the way, if you have experience in implementing TYPO3 or shopware projects, we should meet anyway.
