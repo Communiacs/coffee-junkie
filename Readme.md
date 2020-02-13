@@ -33,5 +33,5 @@ You will find a file `Documentation.md` in both project folders `api` and `vuejs
 
 If you are satisfied with your results, please create a zip file from the entire project and send it by e-mail to `w.freund@communiacs.de`. We are looking forward to your input and always hold a seat for you.
 
-## Do you have any questions?
-If something should be unclear for you, or questions arise, you can always contact us at `w.freund@communiacs.de`. By the way, if you have experience in implementing TYPO3 or shopware projects, we should meet anyway.
+## To all junior and intermediate coding professionals out there
+If something should be unclear for you, or questions arise, you can always contact us at `w.freund@communiacs.de`. By the way, if you are experienced in implementing TYPO3 or Shopware projects, we should meet anyway.
